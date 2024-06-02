@@ -18,7 +18,7 @@ This reposity will be updated soon, including:
 - [x] Uploading the **Raw Data** of IAAD, along with an easier processing script.
 - [x] Uploading the **Visualization Codes** of raw data and results.
 - [x] Updating the **Experiment Codes** to make it easier to get up with.
-- [x] Uploading the **[Conda Environments](#1-installation-as-conda)** of ADAPT.
+- [x] Uploading the **[Conda Environments](#1-installation-as-conda)** of .
 
 
 
