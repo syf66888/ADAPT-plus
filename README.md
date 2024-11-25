@@ -1,8 +1,8 @@
-# OFAC
+# ADAPT++
 
  <img src="overview.png" width="650"> 
 
-This repository is an official implementation of
+This repository is an official implementation of ADAPT++
 
 Created by yufan shu
 
@@ -14,11 +14,11 @@ This repository contains the training and testing of the proposed framework in p
 
 ## Note
 This reposity will be updated soon, including:
-- [x] Uploading the **[Preprocessed Data](#dataset-preparation)** of IAAD.
-- [x] Uploading the **Raw Data** of IAAD, along with an easier processing script.
-- [x] Uploading the **Visualization Codes** of raw data and results.
-- [x] Updating the **Experiment Codes** to make it easier to get up with.
-- [x] Uploading the **[Conda Environments](#1-installation-as-conda)** of .
+- [] Uploading the **[Preprocessed Data](#dataset-preparation)** of dataset.
+- [] Uploading the **Raw Data** of IAAD.
+- [] Uploading the **Visualization Codes** of raw data and results.
+- [] Updating the **Experiment Codes** to make it easier to get up with.
+- [x] Uploading the **[Conda Environments](#1-installation-as-conda)** of ADAPT++.
 
 
 
@@ -29,8 +29,8 @@ This reposity will be updated soon, including:
 
 Create conda environment:
 ```
-conda create --name syf python=3.8
-conda activate syf
+conda create --name adapt++ python=3.8
+conda activate adapt++
 ```
 
 install torch
@@ -67,6 +67,8 @@ pip install -r requirements.txt
 Our code is built on top of open-source GitHub repositories. 
 We thank all the authors who made their code public, which tremendously accelerates our project progress. 
 If you find these works helpful, please consider citing them as well.
+
+[jxbbb/ADAPT](https://github.com/jxbbb/ADAPT)
 
 [Microsoft/SwinBERT](https://github.com/microsoft/SwinBERT) 
 
